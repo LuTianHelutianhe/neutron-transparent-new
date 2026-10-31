@@ -1,0 +1,24 @@
+TOPAS Binary Phase Space
+
+Number of Original Histories: 340469530
+Number of Original Histories that Reached Phase Space: 321092082
+Number of Scored Particles: 321858697
+Number of Bytes per Particle: 34
+
+Byte order of each record is as follows:
+f4: Position X [cm]
+f4: Position Y [cm]
+f4: Position Z [cm]
+f4: Direction Cosine X
+f4: Direction Cosine Y
+f4: Energy [MeV]
+f4: Weight
+i4: Particle Type (in PDG Format)
+b1: Flag to tell if Third Direction Cosine is Negative (1 means true)
+b1: Flag to tell if this is the First Scored Particle from this History (1 means true)
+
+Number of neutron: 321858697
+
+Minimum Kinetic Energy of neutron: 2.94449e-11 MeV
+
+Maximum Kinetic Energy of neutron: 18.1039 MeV

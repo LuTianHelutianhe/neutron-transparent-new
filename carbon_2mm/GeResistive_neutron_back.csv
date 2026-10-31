@@ -1,0 +1,8 @@
+# TOPAS Version: 3.9.p2
+# Parameter File: carbon_2mm.txt
+# Results for scorer: BackGeResistive
+# Filtered by: OnlyIncludeParticlesNamed = 1 "neutron"
+# Filtered by: OnlyIncludeParticlesGoing = "Out"
+# Scored on surface: GeResistive/ZMinusSurface
+# SurfaceTrackCount : Sum   Histories_with_Scorer_Active   
+13938185, 340469530

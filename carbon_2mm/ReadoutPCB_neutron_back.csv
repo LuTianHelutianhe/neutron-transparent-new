@@ -1,0 +1,8 @@
+# TOPAS Version: 3.9.p2
+# Parameter File: carbon_2mm.txt
+# Results for scorer: BackReadoutPCB
+# Filtered by: OnlyIncludeParticlesNamed = 1 "neutron"
+# Filtered by: OnlyIncludeParticlesGoing = "Out"
+# Scored on surface: ReadoutPCB/ZMinusSurface
+# SurfaceTrackCount : Sum   Histories_with_Scorer_Active   
+13938456, 340469530
