@@ -1,0 +1,8 @@
+# TOPAS Version: 3.9.p2
+# Parameter File: carbon_5mm.txt
+# Results for scorer: BackCopperLayer
+# Filtered by: OnlyIncludeParticlesNamed = 1 "neutron"
+# Filtered by: OnlyIncludeParticlesGoing = "Out"
+# Scored on surface: CopperLayer/ZMinusSurface
+# SurfaceTrackCount : Sum   Histories_with_Scorer_Active   
+1400822, 340469530

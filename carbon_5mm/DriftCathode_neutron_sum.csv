@@ -1,0 +1,8 @@
+# TOPAS Version: 3.9.p2
+# Parameter File: carbon_5mm.txt
+# Results for scorer: SumDriftCathode
+# Filtered by: OnlyIncludeParticlesNamed = 1 "neutron"
+# Filtered by: OnlyIncludeParticlesGoing = "In"
+# Scored on surface: DriftCathode/ZMinusSurface
+# SurfaceTrackCount : Sum   Histories_with_Scorer_Active   
+340458176, 340469530
