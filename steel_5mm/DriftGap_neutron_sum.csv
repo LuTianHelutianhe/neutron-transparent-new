@@ -1,0 +1,8 @@
+# TOPAS Version: 3.9.p2
+# Parameter File: steel.txt
+# Results for scorer: SumDriftGap
+# Filtered by: OnlyIncludeParticlesNamed = 1 "neutron"
+# Filtered by: OnlyIncludeParticlesGoing = "In"
+# Scored on surface: DriftGap/ZMinusSurface
+# SurfaceTrackCount : Sum   Histories_with_Scorer_Active   
+327622528, 340469530
